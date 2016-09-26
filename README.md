@@ -1,4 +1,4 @@
-# Photo blog webpage_
+# _Photo blog webpage_
 
 #### _JavaScript and JQuery exercise for Epicodus, 09.26.2016_
 
