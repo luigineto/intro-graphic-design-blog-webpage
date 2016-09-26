@@ -1,4 +1,4 @@
-# _Photo blog webpage_
+# _Graphic design blog webpage_
 
 #### _JavaScript and JQuery exercise for Epicodus, 09.26.2016_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a simple photo blog webpage to practice JavaScript and JQuery - Epicodus exercise._
+_This is a simple graphic design blog webpage to practice JavaScript and JQuery - Epicodus exercise._
 
 ## Setup/Installation Requirements
 
