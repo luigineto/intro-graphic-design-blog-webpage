@@ -66,11 +66,38 @@
 
 .img-responsive {
 	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	cursor: pointer;
 }
 
 .btn {
 	margin-top: 30px;
 	margin-bottom: 20px;
+}
+
+.img-hidden-col-1 {
+	display: none;
+}
+
+.img-hidden-col-2 {
+	display: none;
+}
+
+.img-hidden-col-3 {
+	display: none;
+}
+
+.info-hidden-col-1 {
+	display: none;
+}
+
+.info-hidden-col-2 {
+	display: none;
+}
+
+.info-hidden-col-3 {
+	display: none;
 }
 
 /* Footer */
